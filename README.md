@@ -2,7 +2,9 @@
 
 **`TI`**
 
-Me chamo Pedro Gaudencio, tenho 18 anos e sou de São Bernardo do Campo. Concluí o Ensino Médio na Etec, com o curso técnico de mecatrônica. Sou viciado em TI e procuro seguir na área.
+My name is Pedro Gaudencio, I am 18 years old, and I am from São Bernardo do Campo. I completed high school at Etec, where I also earned a technical degree in Mechatronics. I am deeply passionate about Information Technology and intend to pursue a career in this field. My instagram ['https://www.instagram.com/_pegaudencio/']
+
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
+
