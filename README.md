@@ -8,3 +8,4 @@ My name is Pedro Gaudencio, I am 18 years old, and I am from São Bernardo do Ca
 
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
