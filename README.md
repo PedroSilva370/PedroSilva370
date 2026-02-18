@@ -6,4 +6,4 @@ My name is Pedro Gaudencio, I am 18 years old, and I am from São Bernardo do Ca
 
 ---
 ### 🤖 Languages and Technologies
-
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
