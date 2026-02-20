@@ -38,5 +38,5 @@ My name is Pedro Gaudencio, I am 18 years old, and I am from São Bernardo do Ca
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_pegaudencio/)
   
 </div>
-
+</details>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
