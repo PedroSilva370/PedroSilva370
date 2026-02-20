@@ -9,6 +9,8 @@ My name is Pedro Gaudencio, I am 18 years old, and I am from São Bernardo do Ca
 
 ## 🤖 Languages
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+<br>
+<br>
 
 <div align="right side">
  <img height="150" align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSilva370&theme=github_dark">
