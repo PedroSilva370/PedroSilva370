@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Pedro Gaudencio
 
-**`TI`** **`Student`**
+**`TI`** **`Student`** **`Python`**
 
 My name is Pedro Gaudencio, I am 18 years old, and I am from São Bernardo do Campo. I completed high school at Etec, where I also earned a technical degree in Mechatronics. High school student focused on software development and problem-solving through technology. Currently building projects in Python and web development.
 
