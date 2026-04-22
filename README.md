@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=header"/>
 
 ## 🧑‍💻 Pedro Gaudencio
 
@@ -39,4 +39,4 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
   
 </div>
 </details>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=footer"/>
