@@ -12,12 +12,16 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
 <br>
 <br>
 
-
-<div align="right side">
- <img height="150" align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSilva370&theme=holi">
- <img height="150" width="255" align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroSilva370&theme=holi">
+<div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSilva370&theme=holi" />
 </div>
 
+<br>
+
+<div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroSilva370&theme=holi" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSilva370&theme=holi" />
+</div>
 <details align="center">  
   <summary>
       <samp>
