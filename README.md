@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=header"/>
 
-## 🧑‍💻 Pedro Gaudencio
+# 🧑‍💻 Pedro Gaudencio
 
 **`TI`** **`Student`** **`Python`**
 
@@ -8,10 +8,12 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
 
 
 ## 🤖 Languages
+
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 <br>
 <br>
 
+<br>
 <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSilva370&theme=holi" />
 </div>
