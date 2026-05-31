@@ -1,15 +1,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=header"/>
 
-# 🧑‍💻 Pedro Gaudencio
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&repeat=false&width=500&height=65&lines=Hey+guys!+I'm+Pedro+Gaudencio)](https://git.io/typing-svg)
+
+---
 
 **`TI`** **`Student`** **`Python`**
 
 My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, Brazil. I am currently studying Mechatronics at ETEC while completing high school. I am focused on software development and problem-solving through technology, and I am building projects in Python and web development.
 
+---
 
-## 🤖 Languages
+### 💻🛠️ Languages and Tools
 
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"> <img width="40" src="https://skillicons.dev/icons?i=github" /> <img width="40" src="https://skillicons.dev/icons?i=pycharm" />
+
+---
+</p>
 <br>
 <br>
 
