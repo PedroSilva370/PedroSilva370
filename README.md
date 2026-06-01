@@ -48,7 +48,7 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
 
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gsilvapedro370@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_pegaudencio/)
-  
+  [![Linkedin](https://img.shields.io/badge/Linkedin-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/pedro-gaudencio-738840405)
 </div>
 </details>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=footer"/>
