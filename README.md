@@ -10,10 +10,43 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
 
 ---
 
-### 💻🛠️ Languages and Tools
+### 🛠️Languages and Tools
 
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/> <img width="40" src="https://skillicons.dev/icons?i=github"/> <img width="40" src="https://skillicons.dev/icons?i=pycharm"/> <img width="40" src="https://skillicons.dev/icons?i=vscode"/> <br>
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-blue?style=for-the-badge)
+
+---
+
+### 🗺️ Roadmap de Desenvolvimento | Development Roadmap
+```mermaid
+flowchart TB
+
+    A["👨‍💻 Pedro Gaudêncio"]
+
+    A --> B["Estudos"]
+    A --> C["Atualmente"]
+    A --> D["Projeto Principal"]
+    A --> E["Objetivos"]
+
+    B --> B1["POO"]
+    B --> B2["Algoritmos"]
+    B --> B3["Lógica de Programação"]
+    B --> B4["Estruturas de Dados"]
+
+    C --> C1["Python"]
+    C --> C2["Backend Development"]
+    C --> C3["Git & GitHub"]
+
+    D --> D1["Sistema de Gerenciamento Empresarial"]
+    D1 --> D2["Clientes"]
+    D1 --> D3["Financeiro"]
+    D1 --> D4["Relatórios"]
+
+    E --> E1["Primeiro Emprego"]
+    E --> E2["Estágio"]
+    E --> E3["Programador Profissional"]
+    E --> E4["Open Source"]
+```
 
 ---
 </p>
