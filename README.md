@@ -45,7 +45,6 @@ flowchart TB
     E --> E1["Primeiro Emprego"]
     E --> E2["Estágio"]
     E --> E3["Programador Profissional"]
-    E --> E4["Open Source"]
 ```
 
 ---
