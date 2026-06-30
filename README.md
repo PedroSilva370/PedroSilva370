@@ -66,7 +66,7 @@ flowchart TB
 <details align="center">  
   <summary>
       <samp>
-        <b>Contact me</b>
+        <b>Contate-me | Contact me</b>
       </samp>
   </summary>
   
