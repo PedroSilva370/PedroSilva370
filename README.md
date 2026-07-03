@@ -21,7 +21,7 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
 ```mermaid
 flowchart TB
 
-    A["👨‍💻 Pedro Gaudêncio"]
+    A["👨‍💻 Pedro Gaudencio"]
 
     A --> B["Estudos"]
     A --> C["Atualmente"]
