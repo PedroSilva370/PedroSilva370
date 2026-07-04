@@ -60,7 +60,7 @@ flowchart TB
 <br>
 
 <div align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroSilva370&theme=holi" />
+  <img height="150" src="https://streak-stats.demolab.com?user=PedroSilva370&theme=transparent&short_numbers=true)](https://git.io/streak-stats"/>
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSilva370&theme=holi" />
 </div>
 <details align="center">  
