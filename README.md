@@ -12,7 +12,7 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
 
 ### 🛠️Linguagens e Ferramentas | Languages and Tools
 
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/> <img width="40" src="https://skillicons.dev/icons?i=github"/> <img width="40" src="https://skillicons.dev/icons?i=pycharm"/> <img width="40" src="https://skillicons.dev/icons?i=vscode"/> <br>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/> <img width="40" src="https://skillicons.dev/icons?i=sqlite"/> <img width="40" src="https://skillicons.dev/icons?i=github"/> <img width="40" src="https://skillicons.dev/icons?i=pycharm"/> <img width="40" src="https://skillicons.dev/icons?i=vscode"/> <br>
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-blue?style=for-the-badge)
 
 ---
