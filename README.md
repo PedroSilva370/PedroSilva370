@@ -29,7 +29,7 @@ flowchart TB
     A --> E["Objetivos"]
 
     B --> B1["POO"]
-    B --> B2["Algoritmos"]
+    B --> B2["Sqlite3"]
     B --> B3["Lógica de Programação"]
     B --> B4["Estruturas de Dados"]
 
@@ -37,10 +37,9 @@ flowchart TB
     C --> C2["Backend Development"]
     C --> C3["Git & GitHub"]
 
-    D --> D1["Sistema de Gerenciamento Empresarial"]
-    D1 --> D2["Clientes"]
-    D1 --> D3["Financeiro"]
-    D1 --> D4["Relatórios"]
+    D --> D1["Rastreador de Finanças"]
+    D1 --> D2["Finanças"]
+    D1 --> D3["Meta"]
 
     E --> E1["Primeiro Emprego"]
     E --> E2["Estágio"]
