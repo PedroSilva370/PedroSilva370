@@ -12,7 +12,7 @@ My name is Pedro Gaudencio, I am 15 years old, and I am from São Paulo state, B
 
 ### 🛠️Linguagens e Ferramentas | Languages and Tools
 
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/> <img width="39" src="https://skillicons.dev/icons?i=sqlite"/> <img width="40" src="https://skillicons.dev/icons?i=github"/> <img width="40" src="https://skillicons.dev/icons?i=pycharm"/> <img width="40" src="https://skillicons.dev/icons?i=vscode"/> <br>
+<img width="40" src="https://skillicons.dev/icons?i=fastapi"/> <img width="39" src="https://skillicons.dev/icons?i=sqlite"/> <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/> <img width="40" src="https://skillicons.dev/icons?i=github"/> <img width="40" src="https://skillicons.dev/icons?i=pycharm"/> <img width="40" src="https://skillicons.dev/icons?i=vscode"/>  <br>
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-blue?style=for-the-badge)
 
 ---
@@ -23,27 +23,24 @@ flowchart TB
 
     A["👨‍💻 Pedro Gaudencio"]
 
-    A --> B["Estudos"]
-    A --> C["Atualmente"]
-    A --> D["Projeto Principal"]
-    A --> E["Objetivos"]
+    A --> B["📚 Estudos"]
+    A --> C["💻 Tecnologias"]
+    A --> D["🚀 Projeto"]
+    A --> E["🎯 Objetivo"]
 
-    B --> B1["POO"]
-    B --> B2["Sqlite3"]
-    B --> B3["Lógica de Programação"]
-    B --> B4["Estruturas de Dados"]
+    B --> B1["Python"]
+    B --> B2["POO"]
+    B --> B3["SQL"]
+    B --> B4["Lógica"]
 
-    C --> C1["Python"]
-    C --> C2["Backend Development"]
+    C --> C1["FastAPI"]
+    C --> C2["SQLite"]
     C --> C3["Git & GitHub"]
 
     D --> D1["Rastreador de Finanças"]
-    D1 --> D2["Finanças"]
-    D1 --> D3["Meta"]
 
-    E --> E1["Primeiro Emprego"]
-    E --> E2["Estágio"]
-    E --> E3["Programador Profissional"]
+    E --> E1["Estágio"]
+    E --> E2["Backend Developer"]
 ```
 
 ---
