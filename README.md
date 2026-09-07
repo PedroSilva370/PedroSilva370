@@ -44,9 +44,11 @@ flowchart TB
 ```
 
 ---
-</p>
-<br>
-<br>
+## 🏆 Certifications & Achievements
+
+<img src="web-development-with-python.png" width="100">
+
+---
 
 <br>
 <div align="center">
