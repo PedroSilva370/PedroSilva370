@@ -30,32 +30,13 @@ I'm constantly learning, building, and improving my programming skills through p
 
 ## `> TECNOLOGIAS | TECHNOLOGIES`
 
-### `LINGUAGENS | LANGUAGES`
-
-<p>
-<img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
-</p>
-
-### `BACKEND`
-
-<p>
-<img width="45" src="https://skillicons.dev/icons?i=fastapi"/>
-<img width="45" src="https://skillicons.dev/icons?i=sqlite"/>
-<img width="45" src="https://skillicons.dev/icons?i=postgres"/>
-</p>
-
-![Pydantic](https://img.shields.io/badge/Pydantic-Validation-151515?style=for-the-badge\&logo=pydantic)
-![JWT](https://img.shields.io/badge/JWT-Authentication-151515?style=for-the-badge\&logo=jsonwebtokens)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-151515?style=for-the-badge)
-
-### `FERRAMENTAS | TOOLS`
-
-<p>
-<img width="45" src="https://skillicons.dev/icons?i=git"/>
-<img width="45" src="https://skillicons.dev/icons?i=github"/>
-<img width="45" src="https://skillicons.dev/icons?i=pycharm"/>
-<img width="45" src="https://skillicons.dev/icons?i=vscode"/>
-</p>
+| **Categoria / Category** | **Tecnologias / Technologies** |
+|---|---|
+| **Linguagens / Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2B2B2B?style=flat-square) |
+| **Bancos de Dados / Databases** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Ferramentas & Ambiente / Tools & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Aprendendo Atualmente / Currently Learning** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 
 ---
 
