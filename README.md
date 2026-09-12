@@ -89,15 +89,6 @@ flowchart LR
 
 </div>
 
----
 
-<div align="center">
-
-```text
-[ SYSTEM ONLINE ]
-[ LEARN :: BUILD :: IMPROVE ]
-```
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12&section=footer"/>
