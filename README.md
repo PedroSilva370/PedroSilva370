@@ -72,13 +72,10 @@ flowchart LR
 ## `> ATIVIDADE NO GITHUB | GITHUB ACTIVITY`
 
 <div align="center">
-<br>
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSilva370&theme=holi"/>
 
-<br>
+<img width="51%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroSilva370&theme=holi"/>
+<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSilva370&theme=holi"/>
 
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroSilva370&theme=holi"/>
-<br>
 </div>
 
 ---
